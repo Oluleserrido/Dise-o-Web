@@ -1,2 +1,2 @@
-# Dise-o-Web
+# Página-Web
 Curso de diseño web
